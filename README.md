@@ -50,7 +50,11 @@ Mostly abandoned:
 
 ## Contact
 
-https://www.linkedin.com/in/alan-bernstein/
+[website](https://www.alanbernstein.net)
+
+[email](mailto:alan.aaron.bernstein&gmail,com), with the appropriate substitutions
+
+[linkedin](https://www.linkedin.com/in/alan-bernstein/)
 
 ## Github Stats
 
