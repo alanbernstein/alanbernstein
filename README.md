@@ -7,6 +7,7 @@ I'm a jack of all trades. Here are some things I like:
 * data visualization
 * computer graphics
 * extremely simple, single-purpose web apps
+* open source
 * biking
 * photography
 * scifi
@@ -16,6 +17,10 @@ I'm a jack of all trades. Here are some things I like:
 * regular polyhedra
 * M.C. Escher
 * board games
+* puzzles
+* blinkenlights
+* aventure
+* novelty
 
 ## Actual Repositories
 
@@ -31,6 +36,7 @@ Stuff I use actively:
 
 
 Working on it:
+- [dymaxion](https://github.com/alanbernstein/dymaxion) - I'm trying to build a CNC globe, generating the design files from scratch (or on top of python+numpy, anyway) because that seems easier than trying to find some combination of GIS/CAD tooling that can do what I need. Mathematica might be able to do it all, but I don't have that much need for it, plus I prefer open source options, especially for programming languages.
 - [sdf-cad](https://github.com/alanbernstein/sdf-cad) - utilities and projects for 3d printing, using [https://github.com/deadsy/sdfx](sdfx) instead of openscad
 - [blog](https://github.com/alanbernstein/blog)
 
