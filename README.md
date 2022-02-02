@@ -19,7 +19,7 @@ I'm a jack of all trades. Here are some things I like:
 * board games
 * puzzles
 * blinkenlights
-* aventure
+* adventure
 * novelty
 
 ## Actual Repositories
