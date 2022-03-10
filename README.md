@@ -21,6 +21,7 @@ I'm a jack of all trades. Here are some things I like:
 * blinkenlights
 * adventure
 * novelty
+* good puns, and also bad puns
 
 ## Actual Repositories
 
