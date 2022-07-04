@@ -32,7 +32,7 @@ Isn't it annoying when you check out someone's github profile, and their repos a
 Stuff I use actively:
 - [quickref](https://github.com/alanbernstein/quickref) - CLI tool to use and manage cheat sheets stored one-topic-per-file, one-note-per-line
 - [treemonger](https://github.com/alanbernstein/treemonger) - disk usage visualizer, in the style of spacemonger
-- [jumble](https://github.com/alanbernstein/jumble) - "jumble" daily puzzle as a minimal web app
+- ~[jumble](https://github.com/alanbernstein/jumble)~ - "jumble" daily puzzle as a minimal web app [defunct after the "API" that I reverse engineered shut down... or noticed me]
 - [fswatch](https://github.com/alanbernstein/fswatch) - simple hack to use org-tables as source content to generate static websites, with "deployment" to shared hosting via FTP
 - [svgtools](https://github.com/alanbernstein/svgtools) - tools for working with svg images in python
 - [tripinator](https://github.com/alanbernstein/tripinator) - scripts for generating a static photo gallery website, with an inset map showing a GPX track
