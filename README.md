@@ -1,6 +1,8 @@
 ## Me
 
-I'm a jack of all trades. Here are some things I like:
+I'm a software handyman. I'm curious about everything, but I'm most proud of concise, minimal work. I wouldn't call anything of my own elegant, but that's always the ultimate goal.
+
+Here are some things I like:
 
 * math
 * analytical solutions
